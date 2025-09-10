@@ -1,28 +1,20 @@
-<!-- Profile README for Chiluverichethankumar -->
+# Hi 👋, I'm Chethankumar Chiluveri
 
-<h1 align="center">Hi 👋, I'm Chethankumar Chiluveri</h1>
-<p align="center">
-  <!-- Email opens Gmail compose in new tab -->
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=chiluverichethankumar@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/email-chiluverichethankumar@gmail.com-blue?logo=gmail" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/chiluverichethankumar" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Chiluverichethankumar-blue?logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://chiluveri.netlify.app" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-chiluveri.netlify.app-orange?logo=internet-explorer" alt="Portfolio" />
-  </a>
-</p>
+[![Email](https://img.shields.io/badge/email-chiluverichethankumar@gmail.com-blue?logo=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=chiluverichethankumar@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chiluverichethankumar-blue?logo=linkedin)](https://linkedin.com/in/chiluverichethankumar)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-chiluveri.netlify.app-orange?logo=internet-explorer)](https://chiluveri.netlify.app)
 
 ---
 
 ## 🚀 About Me
+Motivated **Software Engineer** and **Data Scientist** passionate about industrial automation, full stack development, and machine learning.  
+I enjoy building robust, scalable solutions and love to innovate using Python, Django, and React Native.
 
-Motivated **Software Engineer** and **Data Scientist** passionate about industrial automation, full stack development, and machine learning. I enjoy building robust, scalable solutions and love to innovate using Python, Django, and React Native.
+- 🌐 [Portfolio](https://chiluveri.netlify.app)  
+- 📫 [chiluverichethankumar@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=chiluverichethankumar@gmail.com) | 📱 +91 91824 19079  
+- 💼 Open to collaborating with diverse teams, including those with disabilities  
 
-- 🌐 <a href="https://chiluveri.netlify.app" target="_blank" rel="noopener noreferrer">Portfolio</a>
-- 📫 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=chiluverichethankumar@gmail.com" target="_blank" rel="noopener noreferrer">chiluverichethankumar@gmail.com</a> | 📱 +91 91824 19079
-- 💼 Open to collaborating with diverse teams, including those with disabilities
+---
 
 ---
 
