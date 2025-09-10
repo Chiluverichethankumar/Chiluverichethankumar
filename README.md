@@ -2,9 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Chethankumar Chiluveri</h1>
 <p align="center">
-  <a href="mailto:chiluverichethankumar@gmail.com"><img src="https://img.shields.io/badge/email-chiluverichethankumar@gmail.com-blue?logo=gmail" alt="Email" /></a>
-  <a href="https://linkedin.com/in/chiluverichethankumar"><img src="https://img.shields.io/badge/LinkedIn-Chiluverichethankumar-blue?logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://chiluveri.netlify.app"><img src="https://img.shields.io/badge/Portfolio-chiluveri.netlify.app-orange?logo=internet-explorer" alt="Portfolio" /></a>
+  <a href="mailto:chiluverichethankumar@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/email-chiluverichethankumar@gmail.com-blue?logo=gmail" alt="Email" /></a>
+  <a href="https://linkedin.com/in/chiluverichethankumar" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Chiluverichethankumar-blue?logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://chiluveri.netlify.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-chiluveri.netlify.app-orange?logo=internet-explorer" alt="Portfolio" /></a>
 </p>
 
 ---
@@ -13,7 +13,7 @@
 
 Motivated **Software Engineer** and **Data Scientist** passionate about industrial automation, full stack development, and machine learning. I enjoy building robust, scalable solutions and love to innovate using Python, Django, and React Native.
 
-- 🌐 [Portfolio](https://chiluveri.netlify.app)
+- 🌐 <a href="https://chiluveri.netlify.app" target="_blank" rel="noopener noreferrer">Portfolio</a>
 - 📫 chiluverichethankumar@gmail.com | 📱 +91 91824 19079
 - 💼 Open to collaborating with diverse teams, including those with disabilities
 
@@ -62,26 +62,26 @@ _July 2024 – October 2024_
 
 ## 🌟 Featured Projects
 
-- [**Adib.AI – Smart AI Chatbot**](https://github.com/Chiluverichethankumar/Adib.AI_0.1)  
+- <a href="https://github.com/Chiluverichethankumar/Adib.AI_0.1" target="_blank" rel="noopener noreferrer"><b>Adib.AI – Smart AI Chatbot</b></a>  
   _Flask, Python, SMTP, Render_  
   ➤ Handles coding queries, math, tech FAQs with a sleek UI.  
   ➤ SMTP feedback, custom FAQ logic, social links.  
-  ➤ [Live Demo](https://adib-ai-0-1.onrender.com) (if available).
+  ➤ <a href="https://adib-ai-0-1.onrender.com" target="_blank" rel="noopener noreferrer">Live Demo</a> (if available).
 
-- [**Session Management System**](https://github.com/Chiluverichethankumar/freelancer)  
+- <a href="https://github.com/Chiluverichethankumar/freelancer" target="_blank" rel="noopener noreferrer"><b>Session Management System</b></a>  
   _HTML, CSS, JavaScript, PHP, Tomcat_  
   ➤ Enhanced login security and user tracking for e-commerce.  
   ➤ Implemented secure protocols and improved UX.
 
-- [**Online Voting System with Blockchain**](https://github.com/Chiluverichethankumar/Restaurant-Recommendation-System)  
+- <a href="https://github.com/Chiluverichethankumar/Restaurant-Recommendation-System" target="_blank" rel="noopener noreferrer"><b>Online Voting System with Blockchain</b></a>  
   _Blockchain, HTML, CSS, JS, SQL_  
   ➤ SHA-256 encryption, face recognition, OTP verification for voter authentication.
 
-- [**Password Generator App**](https://github.com/Chiluverichethankumar/recap)  
+- <a href="https://github.com/Chiluverichethankumar/recap" target="_blank" rel="noopener noreferrer"><b>Password Generator App</b></a>  
   _Java, OOP_  
   ➤ Generates secure, random passwords with best practices.
 
-- [**Web Scraping & Business Insights Analysis**](https://github.com/Chiluverichethankumar/Hand-Gesture-Recognition)  
+- <a href="https://github.com/Chiluverichethankumar/Hand-Gesture-Recognition" target="_blank" rel="noopener noreferrer"><b>Web Scraping & Business Insights Analysis</b></a>  
   _Python, BeautifulSoup, Pandas_  
   ➤ Extracted & analyzed financial data for India’s top companies.
 
