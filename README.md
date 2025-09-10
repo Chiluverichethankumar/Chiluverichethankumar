@@ -104,8 +104,4 @@ _July 2024 – October 2024_
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chiluverichethankumar&show_icons=true&theme=radical" alt="Chiluverichethankumar's GitHub Stats" />
-</p>
-
 <!-- Let's connect and build something amazing! -->
