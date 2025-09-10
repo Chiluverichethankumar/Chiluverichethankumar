@@ -2,7 +2,10 @@
 
 <h1 align="center">Hi 👋, I'm Chethankumar Chiluveri</h1>
 <p align="center">
-  <a href="mailto:chiluverichethankumar@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/email-chiluverichethankumar@gmail.com-blue?logo=gmail" alt="Email" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=chiluverichethankumar@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/email-chiluverichethankumar@gmail.com-blue?logo=gmail" alt="Email" />
+</a>
+
   <a href="https://linkedin.com/in/chiluverichethankumar" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Chiluverichethankumar-blue?logo=linkedin" alt="LinkedIn" /></a>
   <a href="https://chiluveri.netlify.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-chiluveri.netlify.app-orange?logo=internet-explorer" alt="Portfolio" /></a>
 </p>
