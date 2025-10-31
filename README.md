@@ -76,20 +76,20 @@ _July 2024 – October 2024_
   ➤ SMTP feedback, custom FAQ logic, social links.  
   ➤ <a href="https://adib-ai-0-1.onrender.com" target="_blank" rel="noopener noreferrer">Live Demo</a> (if available).  
 
-- <a href="https://github.com/Chiluverichethankumar/freelancer" target="_blank" rel="noopener noreferrer"><b>Session Management System</b></a>  
+- <a href="https://github.com/Chiluverichethankumar/Chiluverichethankumar-MinProject-on-E-Commerce-website"><b>Session Management System</b></a>  
   _HTML, CSS, JavaScript, PHP, Tomcat_  
   ➤ Enhanced login security and user tracking for e-commerce.  
   ➤ Implemented secure protocols and improved UX.  
 
-- <a href="https://github.com/Chiluverichethankumar/Restaurant-Recommendation-System" target="_blank" rel="noopener noreferrer"><b>Online Voting System with Blockchain</b></a>  
+- <a href="https://github.com/Chiluverichethankumar/Major-project-online-voting-System-using-Blockchain-" target="_blank" rel="noopener noreferrer"><b>Online Voting System with Blockchain</b></a>  
   _Blockchain, HTML, CSS, JS, SQL_  
   ➤ SHA-256 encryption, face recognition, OTP verification for voter authentication.  
 
-- <a href="https://github.com/Chiluverichethankumar/recap" target="_blank" rel="noopener noreferrer"><b>Password Generator App</b></a>  
+- <a href="https://github.com/Chiluverichethankumar/Projects-on-java" target="_blank" rel="noopener noreferrer"><b>Password Generator App</b></a>  
   _Java, OOP_  
   ➤ Generates secure, random passwords with best practices.  
 
-- <a href="https://github.com/Chiluverichethankumar/Hand-Gesture-Recognition" target="_blank" rel="noopener noreferrer"><b>Web Scraping & Business Insights Analysis</b></a>  
+- <a href="https://github.com/Chiluverichethankumar/Web-Scraping-of-India-s-Largest-Companies-for-Financial-Insights" target="_blank" rel="noopener noreferrer"><b>Web Scraping & Business Insights Analysis</b></a>  
   _Python, BeautifulSoup, Pandas_  
   ➤ Extracted & analyzed financial data for India’s top companies.  
 
