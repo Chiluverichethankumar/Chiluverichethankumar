@@ -47,7 +47,7 @@ I am actively seeking roles in:
 <div align="center">
   <!-- Expanded to 26 Skill Icons -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,java,r,html,css,react,nodejs,django,fastapi,flask,php,postgres,mysql,sqlite,redis,aws,gcp,azure,docker,git,github,linux,postman,vscode&perline=13" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=python,js,ts,java,r,html,css,react,expo,nodejs,django,fastapi,flask,php,postgres,mysql,sqlite,redis,aws,gcp,azure,docker,git,github,linux,postman,vscode&perline=13" alt="Tech Stack" />
   </a>
 </div>
 
