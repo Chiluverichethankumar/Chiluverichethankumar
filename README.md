@@ -21,7 +21,7 @@
 
 I am a **Full Stack Product Engineer and Mobile Application Developer** with hands-on experience building scalable SaaS platforms, cross-platform mobile applications, backend systems, automation workflows, and production-grade APIs. 
 
-Currently, I work on end-to-end product development using **React Native, Django, FastAPI, PostgreSQL, Redis, Celery**, and cloud-based infrastructure to build secure, scalable, and high-performance applications. I enjoy building production-ready applications that solve real business problems through scalable engineering, automation, and user-focused product development.
+Currently, I work on end-to-end product development using **React Native,Expo, Django, FastAPI, PostgreSQL, Redis, Celery**, and cloud-based infrastructure to build secure, scalable, and high-performance applications. I enjoy building production-ready applications that solve real business problems through scalable engineering, automation, and user-focused product development.
 
 ### 💡 Core Expertise:
 - 📱 **Mobile Development:** Cross-platform app development using React Native & Expo
