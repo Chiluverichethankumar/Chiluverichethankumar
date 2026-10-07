@@ -1,115 +1,69 @@
-<!-- Profile README for Chiluverichethankumar -->
+<div align="center">
+  <h1>Hi 👋, I'm Chethankumar Chiluveri</h1>
+  <h3>Software Engineer | Data Scientist | Full-Stack Developer</h3>
+  <p>Passionate about industrial automation, scalable SaaS architecture, and machine learning models that drive real-world efficiency.</p>
 
-<h1 align="center">Hi 👋, I'm Chethankumar Chiluveri</h1>
-
-<p align="center">
-  <!-- Email opens Gmail compose in new tab -->
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=chiluverichethankumar@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/email-chiluverichethankumar@gmail.com-blue?logo=gmail" alt="Email" />
+  <!-- Social Badges -->
+  <a href="https://linkedin.com/in/chiluverichethankumar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://linkedin.com/in/chiluverichethankumar" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Chiluverichethankumar-blue?logo=linkedin" alt="LinkedIn" />
+  <a href="https://chiluveri.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://chiluveri.netlify.app" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-chiluveri.netlify.app-orange?logo=internet-explorer" alt="Portfolio" />
+  <a href="mailto:chiluverichethankumar@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
+</div>
 
----
+<br/>
 
-## 🚀 About Me
+## 🛠️ Tech Stack & Tools
 
-Motivated **Software Engineer** and **Data Scientist** passionate about industrial automation, full stack development, and machine learning. I enjoy building robust, scalable solutions and love to innovate using Python, Django, and React Native.
+<div align="center">
+  <!-- Dynamic Skill Icons matching your image request -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,r,js,html,css,react,nodejs,flask,django,php,gcp,aws,azure,git,mysql,sqlite&perline=10" alt="Tech Stack" />
+  </a>
+</div>
 
-- 🌐 <a href="https://chiluveri.netlify.app" target="_blank" rel="noopener noreferrer">Portfolio</a>
-- 📫 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=chiluverichethankumar@gmail.com" target="_blank" rel="noopener noreferrer">chiluverichethankumar@gmail.com</a> | 📱 +91 91824 19079
-- 💼 Open to collaborating with diverse teams, including those with disabilities
+<br/>
 
----
+## ⚡ GitHub Stats
 
-## 🛠️ Skills
+<div align="center">
+  <!-- GitHub Streak Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chiluverichethankumar&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+<br/>
+<div align="center">
+  <!-- Top Languages and Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Chiluverichethankumar&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiluverichethankumar&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
 
-**Languages & Frameworks:**  
-`Python` • `Java` • `SQL` • `R` • `JavaScript` • `HTML` • `CSS` • `React` • `Node.js` • `Flask` • `Django (Multi-Tenant)` • `React Native` • `PHP` • `Tomcat`
+<br/>
 
-**Cloud & Tools:**  
-`Google Cloud Storage` • `AWS` • `Azure` • `Git` • `API Development` • `SMTP Integration`
+## 💼 Featured Experience
 
-**Data Science:**  
-Supervised/Unsupervised Learning • Feature Extraction • EDA • Regression • Classification • Random Forest • Model Optimization
+* **Software Engineer @ Zometric** *(May 2025 – Present)*
+  * Architecting a multi-tenant B2B SaaS CRM in Django and a React Native Android app with GCP integration.
+  * Implemented AI-powered task scoping, real-time sync, and automated invoicing deployed via CI/CD pipelines.
+* **Trainee Decision Scientist @ MuSigma** *(Jul 2024 – Oct 2024)*
+  * Built Random Forest machine learning models on terabytes of manufacturing data, boosting operational efficiency by 10%.
+  * Analyzed fuel consumption patterns, formulating strategies that reduced energy costs by 15%.
 
-**Other:**  
-Agile • Scrum • CI/CD • Design Thinking • Problem-Solving • Teamwork • Communication
+<br/>
 
----
+## 🌟 Top Projects
 
-## 💼 Work Experience
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| **[Adib.AI 0.1](https://github.com/Chiluverichethankumar/Adib.AI_0.1)** | Smart AI chatbot handling coding queries, math, and tech FAQs with custom logic and SMTP feedback. | Python, Flask, Render | [Live Demo](https://adib-ai-0-1.onrender.com) |
+| **[Blockchain Voting System](https://github.com/Chiluverichethankumar/Major-project-online-voting-System-using-Blockchain-)** | Secure online voting system utilizing SHA-256 encryption, facial recognition, and OTP verification. | Blockchain, SQL, JS | [Repo](https://github.com/Chiluverichethankumar/Major-project-online-voting-System-using-Blockchain-) |
+| **[B2B Session Management](https://github.com/Chiluverichethankumar/Chiluverichethankumar-MinProject-on-E-Commerce-website)** | Enhanced login security, user tracking, and secure protocol implementation for e-commerce. | PHP, Tomcat, JS | [Repo](https://github.com/Chiluverichethankumar/Chiluverichethankumar-MinProject-on-E-Commerce-website) |
 
-**Software Engineer @ Zometric, Bengaluru**  
-_May 2025 – Present_  
-- Built a multi-tenant B2B SaaS CRM (Django) & React Native Android app with Google Cloud Storage integration.  
-- Implemented AI-powered task scoping and call transcription.  
-- Developed project, sales, and finance modules with real-time sync and invoicing.  
-- Deployed on GCP with CI/CD, ensuring scalability and privacy.  
+<br/>
 
-**Trainee Decision Scientist @ MuSigma, Bengaluru**  
-_July 2024 – October 2024_  
-- Analyzed fuel consumption data, optimizing energy strategies (costs reduced by 15%).  
-- Built Random Forest models on terabytes of manufacturing data (efficiency +10%).  
-- Developed interactive dashboards with React, and designed APIs for seamless integration.  
-
----
-
-## 🎓 Education
-
-- **B.Tech. in Computer Science** – GITAM, Hyderabad _(2024)_: CGPA 8.47  
-- **Senior Secondary (MPC)** – Narayana Junior College, Hyderabad _(2020)_: CGPA 8.1  
-- **Secondary (High School)** – ViswaBharathi High School _(2018)_: CGPA 8.3  
-
----
-
-## 🌟 Featured Projects
-
-- <a href="https://github.com/Chiluverichethankumar/Adib.AI_0.1" target="_blank" rel="noopener noreferrer"><b>Adib.AI – Smart AI Chatbot</b></a>  
-  _Flask, Python, SMTP, Render_  
-  ➤ Handles coding queries, math, tech FAQs with a sleek UI.  
-  ➤ SMTP feedback, custom FAQ logic, social links.  
-  ➤ <a href="https://adib-ai-0-1.onrender.com" target="_blank" rel="noopener noreferrer">Live Demo</a> (if available).  
-
-- <a href="https://github.com/Chiluverichethankumar/Chiluverichethankumar-MinProject-on-E-Commerce-website"><b>Session Management System</b></a>  
-  _HTML, CSS, JavaScript, PHP, Tomcat_  
-  ➤ Enhanced login security and user tracking for e-commerce.  
-  ➤ Implemented secure protocols and improved UX.  
-
-- <a href="https://github.com/Chiluverichethankumar/Major-project-online-voting-System-using-Blockchain-" target="_blank" rel="noopener noreferrer"><b>Online Voting System with Blockchain</b></a>  
-  _Blockchain, HTML, CSS, JS, SQL_  
-  ➤ SHA-256 encryption, face recognition, OTP verification for voter authentication.  
-
-- <a href="https://github.com/Chiluverichethankumar/Projects-on-java" target="_blank" rel="noopener noreferrer"><b>Password Generator App</b></a>  
-  _Java, OOP_  
-  ➤ Generates secure, random passwords with best practices.  
-
-- <a href="https://github.com/Chiluverichethankumar/Web-Scraping-of-India-s-Largest-Companies-for-Financial-Insights" target="_blank" rel="noopener noreferrer"><b>Web Scraping & Business Insights Analysis</b></a>  
-  _Python, BeautifulSoup, Pandas_  
-  ➤ Extracted & analyzed financial data for India’s top companies.  
-
----
-
-## 🏅 Certifications
-
-- Data Analysis with Python (IBM)  
-- Data Visualization with Python (IBM)  
-- AWS Cloud Architecture (AWS)  
-- AWS Cloud Foundations (AWS)  
-- Full Stack Web Development (Edureka)  
-
----
-
-## 💡 More About Me
-
-- 🤝 Passionate about data-driven decision-making & industrial automation.  
-- 🤗 Always open to new opportunities and collaborations.  
-
----
-
-<!-- Let's connect and build something amazing! -->
+<div align="center">
+  <i>Open to collaborating on innovative AI, full-stack, and automation projects. Let's build something amazing!</i>
+</div>
