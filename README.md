@@ -13,7 +13,8 @@
 <!-- Sleek Social Icons (Icon Only) -->
 <div align="center">
   <a href="https://linkedin.com/in/chiluverichethankumar" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="45" height="45" />
+    <!-- Using skillicons for LinkedIn to ensure it never breaks -->
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="45" height="45" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://chiluveri.netlify.app" target="_blank">
