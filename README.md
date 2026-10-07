@@ -21,10 +21,11 @@
 
 I am a **Full Stack Product Engineer and Mobile Application Developer** with hands-on experience building scalable SaaS platforms, cross-platform mobile applications, backend systems, automation workflows, and production-grade APIs. 
 
-Currently, I work on end-to-end product development using **React Native,Expo, Django, FastAPI, PostgreSQL, Redis, Celery**, and cloud-based infrastructure to build secure, scalable, and high-performance applications. I enjoy building production-ready applications that solve real business problems through scalable engineering, automation, and user-focused product development.
+Currently, I work on end-to-end product development using **React Native, Expo, Django, FastAPI, PostgreSQL, Redis, Celery**, and cloud-based infrastructure to build secure, scalable, and high-performance applications. I enjoy building production-ready applications that solve real business problems through scalable engineering, automation, and user-focused product development.
 
 ### 💡 Core Expertise:
 - 📱 **Mobile Development:** Cross-platform app development using React Native & Expo
+- 🧰 **Modern Frontend Ecosystem:** TanStack Query (Data Fetching), Zustand (State Management), Axios (Networking), and Zod (Schema Validation)
 - ⚙️ **Backend Engineering:** Django, Django REST Framework (DRF) & FastAPI
 - 🏗️ **Architecture:** REST API architecture and scalable SaaS systems
 - 🔐 **Security & Workflows:** Authentication, RBAC, KYC, payments, and automation workflows
@@ -45,10 +46,16 @@ I am actively seeking roles in:
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <!-- Expanded to 26 Skill Icons -->
+  <!-- Dynamic Skill Icons -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,java,r,html,css,react,expo,nodejs,django,fastapi,flask,php,postgres,mysql,sqlite,redis,aws,gcp,azure,docker,git,github,linux,postman,vscode&perline=13" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=python,js,ts,java,r,html,css,react,nodejs,django,fastapi,flask,php,postgres,mysql,sqlite,redis,aws,gcp,azure,docker,git,github,linux,postman,vscode&perline=13" alt="Tech Stack" />
   </a>
+</div>
+
+<div align="center">
+  <br/>
+  <b>Key Libraries & Frameworks:</b><br/>
+  <code>React Native</code> • <code>Expo</code> • <code>TanStack Query</code> • <code>Zustand</code> • <code>Axios</code> • <code>Zod</code>
 </div>
 
 <br/>
