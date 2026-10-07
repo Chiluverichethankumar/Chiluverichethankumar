@@ -24,13 +24,14 @@ I am a **Full Stack Product Engineer and Mobile Application Developer** with han
 Currently, I work on end-to-end product development using **React Native, Expo, Django, FastAPI, PostgreSQL, Redis, Celery**, and cloud-based infrastructure to build secure, scalable, and high-performance applications. I enjoy building production-ready applications that solve real business problems through scalable engineering, automation, and user-focused product development.
 
 ### 💡 Core Expertise:
-- 📱 **Mobile Development:** Cross-platform app development using React Native & Expo
-- 🧰 **Modern Frontend Ecosystem:** TanStack Query (Data Fetching), Zustand (State Management), Axios (Networking), and Zod (Schema Validation)
+- 📱 **Mobile & Cross-Platform:** End-to-end app development for **Android, iOS, and Web** using React Native & Expo
+- 🔌 **Native Integrations:** Implementation of **Google Maps**, **Google OAuth/Sign-in**, **Razorpay Payments**, and native device APIs (Location, File System, Media)
+- 🎨 **UI/UX & Animations:** Building smooth, highly interactive interfaces using React Native Reanimated, Lottie, Moti, and NativeWind (TailwindCSS)
+- 🧰 **Modern Frontend Ecosystem:** TanStack Query (Data Fetching), Zustand (State Management), Axios (Networking), React Navigation, and Zod/Yup (Schema Validation)
 - ⚙️ **Backend Engineering:** Django, Django REST Framework (DRF) & FastAPI
 - 🏗️ **Architecture:** REST API architecture and scalable SaaS systems
 - 🔐 **Security & Workflows:** Authentication, RBAC, KYC, payments, and automation workflows
 - ⚡ **Real-Time Systems:** Notifications and background job processing (Celery, Redis)
-- 🔍 **Search & Matching:** Advanced search systems using Typesense
 - ☁️ **Cloud & DevOps:** Cloud infrastructure, Docker, AWS S3, and deployment workflows
 - 🤖 **AI Integration:** AI/GenAI-based application development and intelligent automation systems
 
@@ -55,7 +56,7 @@ I am actively seeking roles in:
 <div align="center">
   <br/>
   <b>Key Libraries & Frameworks:</b><br/>
-  <code>React Native</code> • <code>Expo</code> • <code>TanStack Query</code> • <code>Zustand</code> • <code>Axios</code> • <code>Zod</code>
+  <code>React Native</code> • <code>Expo</code> • <code>TanStack Query</code> • <code>Zustand</code> • <code>Axios</code> • <code>Zod</code> • <code>React Navigation</code> • <code>NativeWind</code>
 </div>
 
 <br/>
