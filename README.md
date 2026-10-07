@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>Hi 👋, I'm Chethankumar Chiluveri</h1>
-  <h3>Software Engineer | Data Scientist | Full-Stack Developer</h3>
-  <p>Passionate about industrial automation, scalable SaaS architecture, and machine learning models that drive real-world efficiency.</p>
+  <h1>Hi 👋, I'm Chethankumar Chiluveri (He/Him)</h1>
+  <h3>Mobile Application Developer | Full Stack Engineer</h3>
+  <p>Building scalable SaaS platforms, cross-platform mobile apps, and AI-driven backend systems.</p>
 
   <!-- Social Badges -->
   <a href="https://linkedin.com/in/chiluverichethankumar" target="_blank">
@@ -17,12 +17,37 @@
 
 <br/>
 
+## 🚀 About Me
+
+I am a **Full Stack Product Engineer and Mobile Application Developer** with hands-on experience building scalable SaaS platforms, cross-platform mobile applications, backend systems, automation workflows, and production-grade APIs. 
+
+Currently, I work on end-to-end product development using **React Native, Django, FastAPI, PostgreSQL, Redis, Celery**, and cloud-based infrastructure to build secure, scalable, and high-performance applications. I enjoy building production-ready applications that solve real business problems through scalable engineering, automation, and user-focused product development.
+
+### 💡 Core Expertise:
+- 📱 **Mobile Development:** Cross-platform app development using React Native & Expo
+- ⚙️ **Backend Engineering:** Django, Django REST Framework (DRF) & FastAPI
+- 🏗️ **Architecture:** REST API architecture and scalable SaaS systems
+- 🔐 **Security & Workflows:** Authentication, RBAC, KYC, payments, and automation workflows
+- ⚡ **Real-Time Systems:** Notifications and background job processing (Celery, Redis)
+- 🔍 **Search & Matching:** Advanced search systems using Typesense
+- ☁️ **Cloud & DevOps:** Cloud infrastructure, Docker, AWS S3, and deployment workflows
+- 🤖 **AI Integration:** AI/GenAI-based application development and intelligent automation systems
+
+<br/>
+
+## 🎯 Exploring Opportunities
+
+I am actively seeking roles in:
+`Software Engineering` • `Full Stack Development` • `Mobile Application Development` • `Backend Engineering` • `AI/GenAI Engineering` • `SaaS Product Development`
+
+<br/>
+
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <!-- Dynamic Skill Icons matching your image request -->
+  <!-- Dynamic Skill Icons updated to match your new stack -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,r,js,html,css,react,nodejs,flask,django,php,gcp,aws,azure,git,mysql,sqlite&perline=10" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=python,js,ts,react,django,fastapi,postgres,redis,docker,aws,gcp,git,github,linux&perline=14" alt="Tech Stack" />
   </a>
 </div>
 
