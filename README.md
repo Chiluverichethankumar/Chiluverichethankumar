@@ -45,10 +45,25 @@ I am actively seeking roles in:
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <!-- Dynamic Skill Icons updated to match your new stack -->
+  <!-- Expanded to 26 Skill Icons -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,react,django,fastapi,postgres,redis,docker,aws,gcp,git,github,linux&perline=14" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=python,js,ts,java,r,html,css,react,nodejs,django,fastapi,flask,php,postgres,mysql,sqlite,redis,aws,gcp,azure,docker,git,github,linux,postman,vscode&perline=13" alt="Tech Stack" />
   </a>
+</div>
+
+<br/>
+
+## ⚡ GitHub Stats
+
+<div align="center">
+  <!-- GitHub Streak Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chiluverichethankumar&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+<br/>
+<div align="center">
+  <!-- Top Languages and Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Chiluverichethankumar&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiluverichethankumar&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 <br/>
