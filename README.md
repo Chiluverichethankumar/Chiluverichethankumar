@@ -1,5 +1,5 @@
 <!-- Top Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi,%20I'm%20Chethankumar!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Mobile%20App%20Developer%20%7C%20Full%20Stack%20Engineer&descAlignY=55&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi,%20I'm%20Chiluveri Chethankumar!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Mobile%20App%20Developer%20%7C%20Full%20Stack%20Engineer&descAlignY=55&descAlign=50" width="100%" />
 
 <div align="center">
   <!-- Dynamic Typing Effect -->
