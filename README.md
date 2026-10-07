@@ -10,16 +10,18 @@
 
 <br/>
 
-<!-- BASED DARK/NEON SOCIAL BADGES -->
+<!-- Sleek Social Icons (Icon Only) -->
 <div align="center">
   <a href="https://linkedin.com/in/chiluverichethankumar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0D1117&color=0D1117" alt="LinkedIn" />
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="45" height="45" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://chiluveri.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=FF5722&labelColor=0D1117&color=0D1117" alt="Portfolio" />
+    <img src="https://cdn.simpleicons.org/googlechrome/FF5722" alt="Portfolio" width="45" height="45" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:chiluverichethankumar@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0D1117&color=0D1117" alt="Email" />
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="45" height="45" />
   </a>
 </div>
 
