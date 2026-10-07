@@ -1,81 +1,89 @@
-<div align="center">
-  <h1>Hi 👋, I'm Chethankumar Chiluveri (He/Him)</h1>
-  <h3>Mobile Application Developer | Full Stack Engineer</h3>
-  <p>Building scalable SaaS platforms, cross-platform mobile apps, and AI-driven backend systems.</p>
+<!-- Top Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi,%20I'm%20Chethankumar!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Mobile%20App%20Developer%20%7C%20Full%20Stack%20Engineer&descAlignY=55&descAlign=50" width="100%" />
 
-  <!-- Social Badges -->
+<div align="center">
+  <!-- Dynamic Typing Effect -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+scalable+SaaS+platforms;Cross-platform+mobile+apps;AI-driven+backend+systems" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
+
+<!-- Sleek Social Badges -->
+<div align="center">
   <a href="https://linkedin.com/in/chiluverichethankumar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://chiluveri.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:chiluverichethankumar@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
 <br/>
+<br/>
 
-## 🚀 About Me
+### 👨‍💻 About Me
 
-I am a **Full Stack Product Engineer and Mobile Application Developer** with hands-on experience building scalable SaaS platforms, cross-platform mobile applications, backend systems, automation workflows, and production-grade APIs. 
+I am a **Full Stack Product Engineer** and **Mobile Application Developer** passionate about crafting end-to-end applications. From building smooth, cross-platform mobile experiences to architecting scalable, AI-driven backend systems, I enjoy solving real business problems through high-performance engineering.
 
-Currently, I work on end-to-end product development using **React Native, Expo, Django, FastAPI, PostgreSQL, Redis, Celery**, and cloud-based infrastructure to build secure, scalable, and high-performance applications. I enjoy building production-ready applications that solve real business problems through scalable engineering, automation, and user-focused product development.
-
-### 💡 Core Expertise:
-- 📱 **Mobile & Cross-Platform:** End-to-end app development for **Android, iOS, and Web** using React Native & Expo
-- 🔌 **Native Integrations:** Implementation of **Google Maps**, **Google OAuth/Sign-in**, **Razorpay Payments**, and native device APIs (Location, File System, Media)
-- 🎨 **UI/UX & Animations:** Building smooth, highly interactive interfaces using React Native Reanimated, Lottie, Moti, and NativeWind (TailwindCSS)
-- 🧰 **Modern Frontend Ecosystem:** TanStack Query (Data Fetching), Zustand (State Management), Axios (Networking), React Navigation, and Zod/Yup (Schema Validation)
-- ⚙️ **Backend Engineering:** Django, Django REST Framework (DRF) & FastAPI
-- 🏗️ **Architecture:** REST API architecture and scalable SaaS systems
-- 🔐 **Security & Workflows:** Authentication, RBAC, KYC, payments, and automation workflows
-- ⚡ **Real-Time Systems:** Notifications and background job processing (Celery, Redis)
-- ☁️ **Cloud & DevOps:** Cloud infrastructure, Docker, AWS S3, and deployment workflows
-- 🤖 **AI Integration:** AI/GenAI-based application development and intelligent automation systems
+<table align="center" width="100%">
+  <tr>
+    <td width="55%">
+      <b>💡 Core Expertise</b><br><br>
+      📱 <b>Mobile Apps:</b> React Native, Expo, NativeWind<br>
+      ⚙️ <b>Backend:</b> Django, FastAPI, PostgreSQL, Redis<br>
+      🎨 <b>Frontend:</b> Zustand, TanStack Query, React Navigation<br>
+      ☁️ <b>Cloud & DevOps:</b> Docker, AWS S3, Celery<br>
+      🤖 <b>AI Integration:</b> GenAI integration, Automation Workflows<br>
+      🔌 <b>Integrations:</b> Razorpay, Google OAuth, Native Device APIs
+    </td>
+    <td width="45%">
+      <b>🎯 Exploring Opportunities In</b><br><br>
+      💻 Software Engineering<br>
+      🚀 Full Stack Development<br>
+      📱 Mobile Application Development<br>
+      🧠 AI/GenAI Engineering<br>
+      🌐 SaaS Product Development
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-## 🎯 Exploring Opportunities
-
-I am actively seeking roles in:
-`Software Engineering` • `Full Stack Development` • `Mobile Application Development` • `Backend Engineering` • `AI/GenAI Engineering` • `SaaS Product Development`
-
-<br/>
-
-## 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <!-- Dynamic Skill Icons -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,java,r,html,css,react,nodejs,django,fastapi,flask,php,postgres,mysql,sqlite,redis,aws,gcp,azure,docker,git,github,linux,postman,vscode&perline=13" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=python,js,ts,java,react,nodejs,django,fastapi,flask,postgres,mysql,redis,aws,gcp,docker,git,github,linux,postman,vscode&theme=dark&perline=10" alt="My Skills" />
   </a>
+  <br /><br />
+  <b>Libraries & Frameworks:</b><br/>
+  <code>React Native</code> • <code>Expo</code> • <code>TanStack Query</code> • <code>Zustand</code> • <code>Axios</code> • <code>Zod</code> • <code>NativeWind</code> • <code>Lottie</code>
 </div>
 
+<br/>
+
+### 📈 GitHub Analytics
+
 <div align="center">
+  <!-- Split layout for stats to make them look uniform -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Chiluverichethankumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiluverichethankumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chiluverichethankumar&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="97%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Optional: GitHub Snake Animation Placeholder -->
+  <img src="https://raw.githubusercontent.com/Chiluverichethankumar/Chiluverichethankumar/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" onerror="this.style.display='none'"/>
   <br/>
-  <b>Key Libraries & Frameworks:</b><br/>
-  <code>React Native</code> • <code>Expo</code> • <code>TanStack Query</code> • <code>Zustand</code> • <code>Axios</code> • <code>Zod</code> • <code>React Navigation</code> • <code>NativeWind</code>
-</div>
-
-<br/>
-
-## ⚡ GitHub Stats
-
-<div align="center">
-  <!-- GitHub Streak Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chiluverichethankumar&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-<br/>
-<div align="center">
-  <!-- Top Languages and Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Chiluverichethankumar&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiluverichethankumar&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
   <i>Open to collaborating on innovative AI, full-stack, and automation projects. Let's build something amazing!</i>
 </div>
